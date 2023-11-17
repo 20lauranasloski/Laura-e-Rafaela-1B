@@ -1,4 +1,4 @@
-# Laura-e-Rafaela-1B
+# Laura-ALessandra-Estephany-1B
 
 Neste projeto vamos nos apresentar...
 
