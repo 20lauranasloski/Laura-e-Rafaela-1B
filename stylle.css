@@ -1,1 +1,19 @@
+body {
+    background: #fa2bcd;
+}
 
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+em strong {
+    color: #fa2bcd;
+}
+
+#2000 {
+    font-size: 20px;
+}
